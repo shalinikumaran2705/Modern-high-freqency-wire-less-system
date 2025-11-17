@@ -143,5 +143,15 @@ PA → Bandpass Filter	Impedance-controlled PCB traces
 Filter → Power Divider	Low-loss matching network
 Divider → Antenna	Microstrip feedline with 50 Ω impedance
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/29dc870f-6436-41a0-ac24-20fa5d44f939" />
+
+Conclusion
+---
+
+Microstrip lines are the silent backbone of every modern wireless communication system. By controlling impedance, reflections, VSWR, return loss, insertion loss, and S-parameters, engineers ensure that GHz-range signals move cleanly through amplifiers, filters, power dividers, and antennas. The efficiency of wireless devices like smartphones, routers, and RADAR systems depends directly on how well these microstrip lines are designed.
+
+The next time your device connects flawlessly to Wi-Fi or mobile networks, remember—a tiny microstrip line on the PCB is guiding that signal with precision, shaped entirely by transmission line theory.
+
+
 
 
