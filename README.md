@@ -32,6 +32,7 @@ Duroid (for aerospace)
 All high-frequency signal paths inside Wi-Fi routers, smartphones, RADAR modules, satellite receivers, and IoT nodes use microstrip lines governed by transmission line principles.
 
 Reflection Coefficient (Γ)
+---
 Whenever the load impedance (ZL) differs from the line impedance (Z0 = 50 Ω), part of the signal reflects back.
 
 <img width="210" height="90" alt="image" src="https://github.com/user-attachments/assets/17e56f39-43cb-41da-adb0-8de2bb9359ba" />
@@ -46,4 +47,8 @@ If its width or dielectric thickness is incorrect,
 → Wi-Fi range decreases
 
 Engineers calculate Γ to ensure maximum signal transfer to antennas, LNAs, and PAs.
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/680ad455-f734-4537-894e-9abf6f65d76f" />
+
+
 
