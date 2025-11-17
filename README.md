@@ -12,5 +12,6 @@ Electromagnetic interference (EMI)
 Signal attenuation
 High-speed switching and routing
 Microstrip lines ensure reliable, high-speed, high-bandwidth data transfer inside compact wireless devices operating at GHz frequencies.
+
 <img width="344" height="223" alt="image" src="https://github.com/user-attachments/assets/d7d48baa-d241-490c-818f-d43cafdeb09a" />
 
