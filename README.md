@@ -48,6 +48,33 @@ If its width or dielectric thickness is incorrect,
 
 Engineers calculate Γ to ensure maximum signal transfer to antennas, LNAs, and PAs.
 
+VSWR (Voltage Standing Wave Ratio)
+---
+
+<img width="226" height="82" alt="image" src="https://github.com/user-attachments/assets/f9850f47-a3dd-40b4-b2d8-ed7f51d39328" />
+
+
+A VSWR close to 1:1 indicates perfect matching.
+Practical Importance
+In any microstrip-fed antenna system:
+VSWR < 1.5 ensures
+✔ stable Wi-Fi
+✔ longer range
+✔ minimal RF heating
+✔ higher data throughput
+
+High VSWR → standing waves → power loss → system failure.
+
+Return Loss & Insertion Loss
+---
+Return Loss (RL)
+
+<img width="225" height="62" alt="image" src="https://github.com/user-attachments/assets/56bda47f-3ae6-4503-bfbc-85c81dbed808" />
+
+High RL = good matching
+Low RL = large reflection
+Typical requirement: RL > 20 dB
+
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/680ad455-f734-4537-894e-9abf6f65d76f" />
 
 
