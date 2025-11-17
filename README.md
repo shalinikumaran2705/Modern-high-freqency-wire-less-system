@@ -92,5 +92,25 @@ all use microstrip interconnections where low IL ensures clean, distortion-free 
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/680ad455-f734-4537-894e-9abf6f65d76f" />
 
+S-Parameters in Microstrip RF Modules
+---
+Microstrip-based circuits are analyzed using S-parameters, especially at high GHz frequencies.
+S₁₁ → Input reflection
+S₂₁ → Forward gain
+S₁₂ → Reverse isolation
+S₂₂ → Output reflection
+Use in Real Hardware
+Microstrip lines on PCBs form:
+bandpass filters
+Wilkinson power dividers
+couplers
+matching networks
+oscillators
+S-parameter tuning ensures:
+✔ minimal leakage
+✔ high isolation
+✔ maximum transmission
+✔ reliable antenna performance
+
 
 
