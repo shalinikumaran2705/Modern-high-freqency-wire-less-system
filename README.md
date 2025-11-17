@@ -75,6 +75,21 @@ High RL = good matching
 Low RL = large reflection
 Typical requirement: RL > 20 dB
 
+Insertion Loss (IL)
+---
+Microstrip lines experience loss due to:
+copper resistance
+dielectric loss
+radiation loss
+surface wave leakage
+Target: IL < 1 dB in most consumer electronics.
+Real-Time Application
+In 5G phones and rouers:
+Filters
+LNAs
+Power amplifiers
+all use microstrip interconnections where low IL ensures clean, distortion-free RF performance.
+
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/680ad455-f734-4537-894e-9abf6f65d76f" />
 
 
