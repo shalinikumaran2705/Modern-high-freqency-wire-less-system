@@ -128,4 +128,20 @@ substrate height (h)
 dielectric constant (εr)
 to achieve maximum power flow
 
+Real-Time Example: Microstrip Lines Inside a Wi-Fi Router
+---
+Scenario
+
+You are streaming HD video through your Wi-Fi router.
+
+Let’s see how microstrip lines guide the signal.
+
+Communication Chain (Internal Signal Flow)
+Stage	Microstrip Line Role
+Modem → PA	High-frequency microstrip routing
+PA → Bandpass Filter	Impedance-controlled PCB traces
+Filter → Power Divider	Low-loss matching network
+Divider → Antenna	Microstrip feedline with 50 Ω impedance
+
+
 
