@@ -112,5 +112,20 @@ S-parameter tuning ensures:
 ✔ maximum transmission
 ✔ reliable antenna performance
 
+Power Delivered to Load
+---
+The power reaching the antenna or amplifier through a microstrip line is:
+
+<img width="264" height="51" alt="image" src="https://github.com/user-attachments/assets/1e65cbbe-b044-4248-a4fe-3f7bb467fa42" />
+
+Real-Time Use
+In routers and 5G modems:
+Microstrip feedlines must deliver maximum power to the antenna.
+Any mismatch reduces coverage and increases transmission errors.
+Engineers adjust:
+microstrip width (W)
+substrate height (h)
+dielectric constant (εr)
+to achieve maximum power flow
 
 
