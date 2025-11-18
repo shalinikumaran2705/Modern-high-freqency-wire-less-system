@@ -150,7 +150,6 @@ Conclusion
 
 Microstrip lines are the silent backbone of every modern wireless communication system. By controlling impedance, reflections, VSWR, return loss, insertion loss, and S-parameters, engineers ensure that GHz-range signals move cleanly through amplifiers, filters, power dividers, and antennas. The efficiency of wireless devices like smartphones, routers, and RADAR systems depends directly on how well these microstrip lines are designed.
 
-The next time your device connects flawlessly to Wi-Fi or mobile networks, remember—a tiny microstrip line on the PCB is guiding that signal with precision, shaped entirely by transmission line theory.
 
 
 
